@@ -15,6 +15,8 @@ knitr::opts_chunk$set(echo = TRUE, comment = NA)
 
 
 
+
+
 ## ¿Qué es R?
 
 <div class="aligncenter"> 
